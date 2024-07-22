@@ -12,9 +12,9 @@
 
 <h1> Below are the options mentioned for each of the dropdown menu </h1>
 
-Select your year: 1st, 2nd, 3rd, 4th
+<h2> Select your year: 1st, 2nd, 3rd, 4th </h2>
 
-Select your branch:
+<h2>Select your branch:</h2>
 - Computer Science and Engineering
 - Electronics and Communication Engineering
 - Computer Engineering
@@ -25,9 +25,9 @@ Select your branch:
 - MCA (Computer Applications)
 - M.Sc. (Data Science)
 
-Select number of members: 1 (Individual), 2, 3, 4
+<h3>Select number of members: 1 (Individual), 2, 3, 4</h3>
 
-Problem Category:
+<h2>Problem Category:</h2>
 - Space Technology
 - Smart Automation
 - Clean & Green Technology
